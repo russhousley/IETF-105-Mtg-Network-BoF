@@ -25,10 +25,11 @@ Background:
 - Jim Martin has recently retired from his role leading the IETF NOC - https://mailarchive.ietf.org/arch/msg/ietf-announce/DqvikV8jrDgY4lUSMsgWn4F7Dbs. 
 - In order to continue maintaining the NOC function in its current form, the IETF LLC has contracted for NOC leadership.
 - Given the changes in Internet technology, the changes in the capabilities of venues and hotels, and Jim's retirement and the new contracted NOC role, it seems like a good opportunity for the community to re-assess our IETF meeting network requirements.
+- Recognizing that as the IETF has grown that a very large portion of meeting attendees, often as much as 1/2, do not stay at the primary IETF hotel, and that only the primary has the IETF network in the guest rooms.  Instead they use whatever the airbnb and hotel provide for Internet access.
 
 Key questions this BoF should explore:
 
-1 - Do we need to manage connectivity for all of the guest rooms?
+1 - Do we need to manage connectivity for guest rooms? 
 
 2 - What are the key NOC functions and does it need to be as fully staffed as it is now (with a paid NOC manager)?
 
