@@ -38,7 +38,7 @@ Key questions this BoF should explore:
 4 - Can we simplify or eliminate any key requirements?
 
 Information the BoF participants will need:
-- The annual cost of maintaining the NOC function & IETF meeting network
+- The annual cost of maintaining the NOC function & IETF meeting network: "NOC Support" line item in [2019 Budget](https://www.ietf.org/documents/246/IETF_2019_Budget_Public_2018-12-19.pdf)
 - [The IETF Meeting Network Requirements](https://www.ietf.org/how/meetings/admin/meeting-network-requirements/)
 
 Links to the mailing list, draft charter if any, relevant Internet-Drafts, etc. \
