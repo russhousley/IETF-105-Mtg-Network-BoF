@@ -39,8 +39,8 @@ Key questions this BoF should explore:
 
 Information the BoF participants will need:
 - The annual cost of maintaining the NOC function & IETF meeting network
+- [The IETF Meeting Network Requirements](https://www.ietf.org/how/meetings/admin/meeting-network-requirements/)
 
-
-Links to the mailing list, draft charter if any, relevant Internet-Drafts, etc.
-Mailing List: https://www.ietf.org/mailman/listinfo/example
+Links to the mailing list, draft charter if any, relevant Internet-Drafts, etc. \
+Mailing List: https://www.ietf.org/mailman/listinfo/example \
 Draft charter: N/A
