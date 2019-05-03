@@ -24,7 +24,7 @@ Background:
 - For many years the IETF has maintained unique network requirements. Many of those requirements were developed prior to many hotels and venues deploying reliable and high-speed Internet access, as well as prior to the emergence of pervasive web encryption, public DNS services, easy-to-use VPNs, etc. 
 - In order to continue maintaining the NOC function in its current form, the IETF LLC has contracted for NOC leadership.
 - Given the changes in Internet technology, the changes in the capabilities of venues and hotels, and Jim's retirement and the new contracted NOC role, it seems like a good opportunity for the community to re-assess our IETF meeting network requirements.
-- Recognizing that as the IETF has grown that a very large portion of meeting attendees, often as much as 1/2, do not stay at the primary IETF hotel, and that only the primary has the IETF network in the guest rooms.  Instead they use whatever the airbnb and hotel provide for Internet access.
+- Recognizing that as the IETF has grown that a very large portion of meeting attendees, often as much as 1/2, do not stay at the primary IETF hotel, and that only the primary has the IETF network in the guest rooms.  Instead they use whatever the airbnb and hotel provide for Internet access. [We know how many people stay at the various hotels -- we should base the assertions made on actual recent historical data about where people stay.]
 
 Key questions this BoF should explore:
 
