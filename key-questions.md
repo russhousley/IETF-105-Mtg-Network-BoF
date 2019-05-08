@@ -29,11 +29,15 @@ Key questions this BoF should explore:
 
 1 - Do we need to manage connectivity for guest rooms? 
 
-2 - Can we simplify or eliminate any network requirements?
+2 - Can we simplify, evolve, or eliminate any network requirements? 
 
-3 - Can we prioritize key network requirements/functions into must have vs. nice to have (optional)?
+3 - Are there any network functions that could be delivered virtually rather than physically on-site?
 
-4 - Do any NOC functions change based on changes in network requirements?
+4 - Are there new requirements to support the hackathon or other new technical initiatives?
+
+5 - Can we prioritize key network requirements/functions into must have vs. nice to have (optional)?
+
+6 - Do any NOC functions change based on changes in network requirements?
 
 Information the BoF participants will need:
 - [The IETF Meeting Network Requirements](https://www.ietf.org/how/meetings/admin/meeting-network-requirements/)
