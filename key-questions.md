@@ -23,9 +23,9 @@ Agenda
 
 - Talk about the existing requirements used by the NOC to build the IETF meeting network
 - Ask questions to confirm that the network requirements align with the needs of the attendees
-  -- Are there things that we are providing that few people care about?
-  -- Are there things that are not being provided that many people care about?
-  -- Are there things that would make experiments easier to conduct without impacting the ability of other people to do their work?
+  - Are there things that we are providing that few people care about?
+  - Are there things that are not being provided that many people care about?
+  - Are there things that would make experiments easier to conduct without impacting the ability of other people to do their work?
 
 Background:
 
@@ -39,23 +39,23 @@ All IETF participants want a perfect network that is always available with unlim
 - It needs to be "real Internet", supporting both IPv4 and IPv6, and no filtering.
 - Provide a terminal room and/or lounge where people can colaborate and have excellent connectivity.
 - A network that works well throughout the meeting venue. It is nice to have access to the network in the main hotel and overflow hotels too, especially when the main hotel is not big enough to accomodate most of the IETF participants.  Priotiy:
-  -- Meeting rooms, common areas, plenary room, Secretariat office, NomCom office, and so on.
-  -- Main hotel common areas and guest rooms.
-  -- Overflow hotel common areas and guest rooms.
+  - Meeting rooms, common areas, plenary room, Secretariat office, NomCom office, and so on.
+  - Main hotel common areas and guest rooms.
+  - Overflow hotel common areas and guest rooms.
 - A network that permits various kinds of experiments:
-  -- on alternative SSIDs;
-  -- provide places where some protocols can run and places where not; and
-  -- measurements of the experiments can be done.
+  - on alternative SSIDs;
+  - provide places where some protocols can run and places where not; and
+  - measurements of the experiments can be done.
 - It is nice to have insight into attacks that take place on the meeting network, and then share this information with the whole community.
 
 Key questions this BoF should explore:
 
-1 - Do we need to manage connectivity for guest rooms? 
-2 - Can we simplify, evolve, or eliminate any network requirements? 
-3 - Are there any network functions that could be delivered virtually rather than physically on-site?
-4 - Are there new requirements to support the hackathon or other new technical initiatives?
-5 - Can we prioritize key network requirements/functions into MUST and SHOULD and MAY?
-6 - Do any NOC functions change based on changes in network requirements?
+1. Do we need to manage connectivity for guest rooms?
+2. Can we simplify, evolve, or eliminate any network requirements? 
+3. Are there any network functions that could be delivered virtually rather than physically on-site?
+4. Are there new requirements to support the hackathon or other new technical initiatives?
+5. Can we prioritize key network requirements/functions into MUST and SHOULD and MAY?
+6. Do any NOC functions change based on changes in network requirements?
 
 Mailing List: https://www.ietf.org/mailman/listinfo/ietf
 
