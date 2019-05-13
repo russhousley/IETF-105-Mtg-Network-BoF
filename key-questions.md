@@ -29,10 +29,6 @@ Agenda
 
 Background:
 
-The requirement have been fairly stable for 10 years.  See https://www.ietf.org/how/meetings/admin/meeting-network-requirements/.
-
-In 2018, the IETF meeting network cost about $360,000 per meeting.  See "NOC Support" line in the budget at https://www.ietf.org/documents/246/IETF_2019_Budget_Public_2018-12-19.pdf.
-
 All IETF participants want a perfect network that is always available with unlimited bandwidth in every possible location, even while others are conducting many experiments with buggy implementations, or even purposely broken implementations.  The real requirements seem to include:
 
 - A highly-reliable network that allows people to get their work done.
@@ -48,14 +44,25 @@ All IETF participants want a perfect network that is always available with unlim
   - measurements of the experiments can be done.
 - It is nice to have insight into attacks that take place on the meeting network, and then share this information with the whole community.
 
-Key questions this BoF should explore:
+The requirement have been fairly stable for 10 years.  See https://www.ietf.org/how/meetings/admin/meeting-network-requirements/.
 
-1. Do we need to manage connectivity for guest rooms?
-2. Can we simplify, evolve, or eliminate any network requirements? 
+In 2018, the IETF meeting network cost about $360,000 per meeting.  See "NOC Support" line in the budget at https://www.ietf.org/documents/246/IETF_2019_Budget_Public_2018-12-19.pdf.
+
+Key questions about the meeting network that this BoF should explore:
+
+1. Can we simplify, evolve, or eliminate any network requirements? 
+2. Should the network offer private IPv4 addresses?
 3. Are there any network functions that could be delivered virtually rather than physically on-site?
 4. Are there new requirements to support the hackathon or other new technical initiatives?
-5. Can we prioritize key network requirements/functions into MUST and SHOULD and MAY?
-6. Do any NOC functions change based on changes in network requirements?
+5. How much redundency do we need?
+6. Can we prioritize key network requirements/functions into MUST and SHOULD and MAY?
+7. Do any NOC functions change based on the evolution of the network requirements?
+
+Key questions about the hotel network that this BoF should explore:
+
+1. Do we need to manage connectivity for guest rooms?
+2. Does ietf-hotel really work better than the hotel-provided network?
+3. Could we live with NAT in the rooms? Could we live without IPv6 in the rooms?
 
 Mailing List: https://www.ietf.org/mailman/listinfo/ietf
 
